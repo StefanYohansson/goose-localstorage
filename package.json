@@ -1,6 +1,6 @@
 {
   "name": "goose-localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lead the way to your localStorage.",
   "main": "lib/index.js",
   "scripts": {

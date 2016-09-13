@@ -17,7 +17,6 @@ var migrations = [
     }, {});
   },
   storage => storage,
-  storage => storage,
 ];
 
 describe("Goose", function() {
